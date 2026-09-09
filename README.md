@@ -111,17 +111,7 @@ yara = {
 ## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yooryr&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Yara's GitHub stats"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooryr&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Yara's top languages"
-  />
+  <img src="https://komarev.com/ghpvc/?username=yooryr&label=Profile%20Views&style=flat" alt="Profile views" />
 </p>
 
 ---
