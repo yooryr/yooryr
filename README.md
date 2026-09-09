@@ -111,11 +111,17 @@ yara = {
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yooryr&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooryr&layout=compact&hide_border=true&theme=transparent" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yooryr&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Yara's GitHub stats"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooryr&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Yara's top languages"
+  />
 </p>
 
 ---
