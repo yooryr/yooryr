@@ -1,6 +1,8 @@
 Hey, I’m Yara 👋
 
-Software Developer · Cybersecurity Enthusiast · DevNext Member
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Cybersecurity+Enthusiast;DevNext+Member;Building+Bitto+%F0%9F%8E%AE" />
+</p>
 
 I’m an Information Technology graduate based in Riyadh 🇸🇦 with a background in full-stack development and a growing focus on cybersecurity.
 
@@ -19,23 +21,11 @@ Currently exploring offensive security, building personal projects, and probably
 * 🧠 Interested in cybersecurity, backend development, AI, and game development
 * ☕ Powered by coffee and questionable debugging decisions
 
-🛠️ Tech Stack
+<h2>⚙️ Tech Stack</h2>
 
-Languages
-
-Python Dart SQL Swift Java
-
-Development
-
-Flutter FastAPI Flask SQLAlchemy PostgreSQL Supabase Firebase
-
-Security & Tools
-
-Nmap Git GitHub Docker Postman Linux
-
-Design & Apple
-
-Figma SwiftUI Xcode Create ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,fastapi,flask,postgres,java,swift,firebase,supabase,docker,git,github,linux,postman,figma" />
+</p>
 
 🚀 DevNext
 
@@ -48,35 +38,27 @@ Some of our projects include:
 
 My work within DevNext has included backend development, Flutter development, API integration, UI implementation, product demos, and presentations.
 
-✦ Featured Projects
+## ✦ Featured Projects
 
-🎮 Bitto
+### 🎮 Bitto
+> A social game diary inspired by Letterboxd.
 
-A social game diary inspired by Letterboxd.
+**Flutter • FastAPI • PostgreSQL • Supabase • IGDB**
 
-Track games you’ve played, build your backlog, write reviews, rate games, and discover what other players are playing.
+### 🎨 LOVEN
+> A mobile marketplace connecting artists and art lovers.
 
-Built with: Flutter · FastAPI · PostgreSQL · Supabase · IGDB API
+**Flutter • Flask • PostgreSQL • Firebase • Docker • Moyasar**
 
-⸻
+### 🗣️ LEEN
+> AI-assisted speech exercises designed to help children who stutter build confidence.
 
-🎨 LOVEN — DevNext
+**SwiftUI • Apple Speech Framework • Create ML**
 
-A mobile marketplace designed for artists to showcase and sell their work.
+### 💰 Waffer XP
+> A gamified savings experience by DevNext.
 
-Worked across the backend and Flutter frontend, including authentication, orders, security, navigation, cart, favorites, artist profiles, checkout, and payments.
-
-Built with: Flutter · Flask · PostgreSQL · Firebase · Docker · Moyasar
-
-⸻
-
-🗣️ LEEN
-
-An AI-assisted digital therapeutics concept designed to help children who stutter build confidence through interactive speaking exercises and gamification.
-
-Contributed to SwiftUI development, speech exercises, rewards, model experimentation, and the final product walkthrough.
-
-Built with: SwiftUI · Apple Speech Framework · Create ML
+**Flutter • Supabase • Figma**
 
 ## 🔐 Currently Exploring
 
