@@ -1,7 +1,17 @@
-# Hey, I’m Yara 👋
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Cybersecurity+Enthusiast;DevNext+Member;Building+Bitto+%F0%9F%8E%AE" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Yara&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20Cybersecurity%20%7C%20DevNext&descAlign=50&descAlignY=55"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Cybersecurity+Enthusiast;DevNext+Member;Building+Bitto+%F0%9F%8E%AE"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -9,6 +19,8 @@
 </p>
 
 ---
+
+# Hey, I’m Yara 👋
 
 I’m an **Information Technology graduate** based in Riyadh 🇸🇦 with a background in full-stack development and a growing focus on cybersecurity.
 
@@ -27,10 +39,13 @@ Currently exploring **offensive security**, building personal projects, and prob
 
 ---
 
-<h2>⚙️ Tech Stack</h2>
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,fastapi,flask,postgres,java,swift,firebase,supabase,docker,git,github,linux,postman,figma" />
+  <img
+    src="https://skillicons.dev/icons?i=python,dart,flutter,fastapi,flask,postgres,java,swift,firebase,supabase,docker,git,github,linux,postman,figma"
+    alt="Tech Stack"
+  />
 </p>
 
 ---
@@ -56,17 +71,23 @@ My work within DevNext has included **backend development, Flutter development, 
 
 **Flutter • FastAPI • PostgreSQL • Supabase • IGDB**
 
+<br>
+
 ### 🎨 LOVEN
 
 > A mobile marketplace connecting artists and art lovers.
 
 **Flutter • Flask • PostgreSQL • Firebase • Docker • Moyasar**
 
+<br>
+
 ### 🗣️ LEEN
 
 > AI-assisted speech exercises designed to help children who stutter build confidence.
 
 **SwiftUI • Apple Speech Framework • Create ML**
+
+<br>
 
 ### 💰 Waffer XP
 
@@ -79,15 +100,19 @@ My work within DevNext has included **backend development, Flutter development, 
 ## 🔐 Currently Exploring
 
 <p align="center">
-  🕸️ Web Application Security &nbsp; • &nbsp;
-  🔎 Penetration Testing &nbsp; • &nbsp;
-  🌐 Network Security
+  🕸️ <b>Web Application Security</b>
+  &nbsp; • &nbsp;
+  🔎 <b>Penetration Testing</b>
+  &nbsp; • &nbsp;
+  🌐 <b>Network Security</b>
 </p>
 
 <p align="center">
-  🐧 Linux &nbsp; • &nbsp;
-  🚩 Hack The Box &nbsp; • &nbsp;
-  🛡️ Red Teaming
+  🐧 <b>Linux</b>
+  &nbsp; • &nbsp;
+  🚩 <b>Hack The Box</b>
+  &nbsp; • &nbsp;
+  🛡️ <b>Red Teaming</b>
 </p>
 
 I come from a software development background, so I’m especially interested in the intersection between **building applications and understanding how they can break.**
@@ -108,10 +133,14 @@ yara = {
 
 ---
 
-## 📊 GitHub
+## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yooryr&label=Profile%20Views&style=flat" alt="Profile views" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yooryr&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="Yara's GitHub Activity Graph"
+  />
 </p>
 
 ---
@@ -119,14 +148,22 @@ yara = {
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yooryr/yooryr/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img
+    src="https://raw.githubusercontent.com/yooryr/yooryr/gh-pages/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="Contribution Snake"
+  />
 </p>
 
 ---
 
 ## 📫 Let’s Connect
 
-Feel free to explore my repositories or reach out if you’re interested in collaborating on something cool.
+<p align="center">
+  Feel free to explore my repositories or reach out if you’re interested in collaborating on something cool.
+</p>
+
+<br>
 
 <p align="center">
   ✦ ─────────────── ✦
@@ -134,4 +171,8 @@ Feel free to explore my repositories or reach out if you’re interested in coll
 
 <p align="center">
   <i>“I usually just code.”</i>
+</p>
+
+<p align="center">
+  ✦ ─────────────── ✦
 </p>
