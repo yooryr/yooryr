@@ -78,27 +78,30 @@ Contributed to SwiftUI development, speech exercises, rewards, model experimenta
 
 Built with: SwiftUI · Apple Speech Framework · Create ML
 
-🔐 Currently Exploring
+## 🔐 Currently Exploring
 
+```text
 > Penetration Testing
 > Web Application Security
 > Network Security
 > Linux
 > Hack The Box
 > Red Teaming
+```
 
 I come from a software development background, so I’m especially interested in the intersection between building applications and understanding how they can break.
 
-🌱 What I’m Working On
+## 🌱 What I'm Working On
 
+```python
 yara = {
     "building": "Bitto 🎮",
     "learning": ["Cybersecurity", "Red Teaming"],
     "team": "DevNext 🚀",
     "interests": ["Backend", "Security", "Game Dev"],
-    "fuel": "Coffee ☕",
+    "fuel": "Coffee ☕"
 }
-
+```
 📫 Let’s Connect
 
 Feel free to explore my repositories or reach out if you’re interested in collaborating on something cool.
