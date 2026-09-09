@@ -133,18 +133,6 @@ yara = {
 
 ---
 
-## ⚡ GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yooryr&theme=github-compact&hide_border=true"
-    width="100%"
-    alt="Yara's GitHub Activity Graph"
-  />
-</p>
-
----
-
 ## 🐍 Contributions
 
 <p align="center">
